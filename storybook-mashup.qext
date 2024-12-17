@@ -1,0 +1,15 @@
+
+{
+	"type": "mashup",
+	"name": "storybook-mashup",
+	"description": "connex-qa",
+	"version": "1.0.0",
+	"author": "3vue",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization, mashup",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
